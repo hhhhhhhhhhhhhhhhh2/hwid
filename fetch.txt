@@ -1,0 +1,6 @@
+const simpleUser = {
+  id: 1,
+  username: "jdoe",
+  email: "jdoe@example.com",
+  isAdmin: true,
+};
